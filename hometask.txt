@@ -1,1 +1,15 @@
 Файл human.txt - одинаковый. В ветке demo был добавлен файл README.
+
+В удалённом репозитории 12 коммитов (включая этот):
+1. init
+2. heat added
+3. boots
+4. README added
+5. dots
+6. fix readme
+7. Merge remote-tracking branch 'origin/boots' into boots_buttons
+8. Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9. Merge remote-tracking branch 'origin/hat'
+10. Merge remote-tracking branch 'humjan/boots_buttons'
+11. add hometask.
+12. fix hometask.
